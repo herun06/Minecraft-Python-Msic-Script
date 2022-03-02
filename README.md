@@ -1,0 +1,2 @@
+# Minecraft-Python-Msic-Script
+这个程序是Python3程序编写的,需要安装模块 pip install mido 教程：1.双击Setup.exe文件。 2.安装后双击桌面MinecraftNoteStudioV1.0.0快捷方式，这个时候会提示你输入.minecraft文件目录，我这里是F:\PCL\.minecraft。 3.选后等那么一两秒，然后继续输入midi文件路径，我这里是F:\My Files\MIDIFILES\test.mid。 4.输入歌曲速度，我这是120.0。 5.输入歌曲标题。 6.输入歌曲副标题。 7.回车等待即可，完成后会自动退出程序。 提示：只需打开Minecraft Java Edition 1.12.2 Forge版本进入游戏，这时会看到你的地图多了一个你刚刚输入标题的存档，双击进入存档，这里使用几条命令初始化一下。 1./reload。 2./function sc:end。 3./mo d o 2或者/mo d o 1,要选你的midi设备或者查看你的midi设备/mo d i即可。 4./tickrate 你开始选的歌曲速度除5 5./function sc:begin
